@@ -3,15 +3,20 @@ main{
   margin: 0 auto;
 }
 
-input{
-  padding: 10px;
-  border-radius: 5px;
-  width: 400px;
-  font-size: 22px;
-  margin: 10px;
+body {
+  background-color: Goldenrod;
+  padding: 10%;
 }
 
-.album{
-  padding: 5px;
+select {
+  font-size: 20px;
 }
 
+p {
+  font-family: cursive;
+}
+
+img {
+  height: 500px;
+  width: auto;
+}
